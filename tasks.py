@@ -6,7 +6,7 @@ from sklearn import datasets
 # Carry out the exercises in your own copy of the notebook that you can find at
 #    https://www.kaggle.com/code/datasniffer/perceptrons-mlp-s-and-gradient-descent.
 # Then copy and paste code asked for below in between the dashed lines.
-# Do not import additional packages.
+
  
 # Task 1:
 # Instructions:
